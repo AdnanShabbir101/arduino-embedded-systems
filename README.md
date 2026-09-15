@@ -1,7 +1,7 @@
 # Arduino Embedded Systems
 # Arduino Embedded Systems & Hardware Control Logic
 
-A comprehensive, hands-on repository containing **34+ embedded systems projects** tracking my progress from foundational electronics to advanced sensor integration and multi-component hardware architectures. 
+A comprehensive, hands-on repository containing **34 embedded systems projects** tracking my progress from foundational electronics to advanced sensor integration and multi-component hardware architectures. 
 
 All projects are written in **C/C++** using the **Arduino IDE** framework, focusing on clean control logic, registers, data processing, and hardware-software interaction.
 
