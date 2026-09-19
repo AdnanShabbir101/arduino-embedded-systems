@@ -13,7 +13,7 @@ All projects are written in **C/C++** using the **Arduino IDE** framework, focus
 *   **Core Microcontrollers:** ATmega328P based architectures.
 *   **Actuators & Displays:** Stepper Motors, Micro Servos, Active/Passive Buzzers, 16x2 LCD Displays, Shift Registers.
 *   **Sensors & Inputs:** Lidar/UltraSound Sensors, DHT11 (Temperature & Humidity), Photoresistors, JoySticks, Keypads, IR Remotes, Motion Detectors, Vibration Sensors, Potentiometers.
-
+*   **Tutorial Followed:** [New Arduino Tutorials By Paul McWhorter] (https://youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&si=lBfvqeh2l60Ry2iQ)   
 ---
 
 ## 📂 Repository Roadmap & Project Catalog
